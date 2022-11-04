@@ -1,0 +1,12 @@
+cd Documents
+start .
+mkdir Spr_git_Karol_Piszewski
+cd Spr_git_Karol_Piszewski
+git init
+touch tekst.txt
+git status
+git add .
+git commit -m "Początek projektu"
+start .
+
+punkt 6 13:12

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+wersja pierwsza
+=======
+Wersja główna
+>>>>>>> master
